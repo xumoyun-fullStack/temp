@@ -1,0 +1,44 @@
+div{
+	width: 410px;
+	border-style: dotted;
+	border-color:blue;
+	margin: 0 auto;
+	padding:15px;
+}
+
+h2{
+	color: #3feac8;
+}
+
+#select1{
+	width: 180px;
+}
+#select2{
+	width: 180px;
+}
+#select3{
+	width:180px;
+}
+#select4{
+	width:180px;
+}
+
+#sel1{
+    width:80px;
+}
+#sel2{
+    width:80px;
+}
+#sel3{
+    width:80px;
+}
+#sel4{
+    width:80px;
+}
+
+button{
+	width:400px;
+	height:30px;
+	background-color: #f4092d;
+	color: white;
+}
